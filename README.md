@@ -1,107 +1,77 @@
-<div align="center">
+<a name="top"></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Mayank%20Gupta&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=GenAI%20Engineer%20%C2%B7%20RAG%20%C2%B7%20Agents%20%C2%B7%20MCP&descAlignY=60&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/hero.svg">
+  <img src="assets/light/hero.svg" width="100%" alt="Mayank Gupta, GenAI Engineer in Gandhinagar, India. I build retrieval systems, agents and MCP servers that run in production. Now building ctxbook. Open to senior GenAI / AI Engineer roles, remote or hybrid.">
+</picture>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=I+build+GenAI+systems+that+work+in+production;RAG+%C2%B7+LangGraph+agents+%C2%B7+MCP+servers+%C2%B7+Guardrails;Currently+building+ctxbook+%F0%9F%A7%A0" alt="Typing SVG" /></a>
-
-<a href="https://www.linkedin.com/in/guptamayank7199/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:guptamayank7199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/9546688/mayank-gupta"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
-<a href="https://x.com/msgupta_07"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Open_to-GenAI_%2F_AI_Engineer_roles-2ea44f?style=flat-square"/>
-
-</div>
-
-### Hi, I'm Mayank, a GenAI Engineer based in Gandhinagar, India 👋
-
-I build **production LLM systems**: RAG pipelines, tool-calling agents and MCP servers that plug AI into real business tools like SharePoint, Confluence and Outlook.
-I have **5+ years** of Python experience, from backends and APIs to ML and now GenAI. I also train developers and share what I learn on [LinkedIn](https://www.linkedin.com/in/guptamayank7199/).
-
----
-
-## 🧠 Spotlight: ctxbook
-
-> **One memory for all your AI tools.** Claude, Cursor and ChatGPT each forget what the others know.
-> **ctxbook** is an open-source MCP server that gives every MCP client the same shared, persistent memory.
-
-<!-- TODO: replace REPO_LINK; add a demo GIF here once it runs (docs/demo.gif) -->
-<p>
-  <a href="REPO_LINK"><img src="https://img.shields.io/badge/View_repo-ctxbook-181717?style=for-the-badge&logo=github"/></a>
-  <img src="https://img.shields.io/badge/status-building-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MCP-FastMCP-6E56CF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-## 🚀 More Things I've Built
-
-| Project | Problem → What I built | Stack |
-|---|---|---|
-| 💼 **HRM Chatbot** <sub>(client work)</sub> | HR teams answer the same questions every day → an AI assistant that calls SharePoint, Confluence and Outlook as **MCP tools** | `LangChain` `MCP` `FastAPI` `AWS` |
-| 💬 **[Persistent Memory Assistant](REPO_LINK)** | Chatbots forget you between sessions → long- and short-term memory with scoring, pruning and semantic recall | `LangChain` `Groq` `Pinecone` `MongoDB` `Next.js` |
-| 📄 **[Doc Q&A](REPO_LINK)** | Reading long documents is slow → RAG that gives grounded answers and summaries | `RAG` `FAISS` `OpenAI` `FastAPI` |
-
----
-
-## 🔭 Right Now
-
-- 🔨 **Building**: ctxbook, an open-source MCP memory server
-- 📚 **Learning**: LLM evals, agent reliability and guardrails
-- ✍️ **Writing**: real RAG lessons from production, on LinkedIn
-- 🤝 **Open to**: GenAI / AI Engineer roles (remote or hybrid)
-
----
-
-## 🛠️ Core Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,django,pytorch,aws,docker,postgres,mongodb,redis,react,nextjs&theme=dark" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/🌲_Pinecone-000000?style=for-the-badge"/>
-</p>
-
-<details>
-<summary><b>📦 Full toolbox (click to expand)</b></summary>
+<p><a href="#about">About</a> &nbsp;·&nbsp; <a href="#work">Work</a> &nbsp;·&nbsp; <a href="#stack">Stack</a> &nbsp;·&nbsp; <a href="#contact">Contact</a> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/guptamayank7199/">LinkedIn ↗</a> &nbsp;·&nbsp; <a href="mailto:guptamayank7199@gmail.com">Email ↗</a></p>
 
 <br/>
 
-| Area | Tools |
-|---|---|
-| **GenAI & LLMs** | OpenAI, Groq, LangChain, LangGraph, RAG, MCP / FastMCP, GuardRails, Hugging Face |
-| **Vector DBs** | Pinecone, FAISS |
-| **ML & DL** | PyTorch, TensorFlow, scikit-learn, Transformers (BERT, T5), spaCy, Sentence-Transformers, OpenCV |
-| **MLOps** | MLflow (tracking, registry), model versioning, evaluation gates, monitoring |
-| **Backend** | Python, FastAPI, Django REST Framework, Node.js, Express, Celery, Redis, JWT / OAuth2 |
-| **Cloud & DevOps** | AWS (EC2, Lambda, S3, CloudFront, ECR, DynamoDB), Azure, Docker, CI/CD |
-| **Databases** | PostgreSQL, MongoDB, MySQL, DynamoDB |
-| **Frontend** | React, Next.js, Tailwind CSS, JavaScript |
-| **Integrations** | SharePoint, Confluence, Outlook, Stripe, Razorpay, Twilio, SendGrid |
-| **Data & BI** | Pandas, NumPy, Matplotlib, Power BI, Tableau |
+<a name="about"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-about.svg">
+  <img src="assets/light/section-about.svg" width="100%" alt="01 About">
+</picture>
 
-</details>
+I'm a GenAI engineer with 5+ years of Python behind me: backend APIs first, then classical ML, and now LLM systems. Most of my recent work connects models to the places a company's knowledge actually lives, like SharePoint, Confluence, Outlook and Slack.
 
----
+I also train developers, and I write on [LinkedIn](https://www.linkedin.com/in/guptamayank7199/) about what goes wrong when RAG meets real documents.
 
-## ⚡ Recent GitHub Activity
+**How I work**
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+- **Measure retrieval before tuning prompts.** A small eval set decides whether a change actually helped.
+- **Give agents the fewest permissions that work.** Validate tool inputs, and decide the failure path up front.
+- **Keep the infrastructure boring.** FastAPI, Postgres, Docker, AWS: things the next engineer can run.
 
-<sub>🤖 This section updates itself every day using a GitHub Action.</sub>
+<br/>
 
----
+<a name="work"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-work.svg">
+  <img src="assets/light/section-work.svg" width="100%" alt="02 Selected work">
+</picture>
 
-<div align="center">
+<a href="https://github.com/ms7199/ctxbook"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-ctxbook.svg">
+  <img src="assets/light/project-ctxbook.svg" width="100%" alt="ctxbook, open source, in development: a local-first memory server that every MCP client shares, with fact history, hybrid search and conflict handling. Figure: Claude Code, Cursor and Claude Desktop all read and write the same memory through ctxbook.">
+</picture></a>
 
-**Building something with LLMs? Let's talk.** 📫 guptamayank7199@gmail.com
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-hr.svg">
+  <img src="assets/light/project-hr.svg" width="100%" alt="HR Assistant, client work: calls SharePoint, Confluence and Outlook as MCP tools so answers come from source systems.">
+</picture>
+<a href="https://github.com/ms7199/docubot-slack"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-docubot.svg">
+  <img src="assets/light/project-docubot.svg" width="100%" alt="docubot-slack, open source: a Slack bot that answers questions from PDFs using RAG.">
+</picture></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/project-memory.svg">
+  <img src="assets/light/project-memory.svg" width="100%" alt="Memory Assistant: long- and short-term memory for a chat assistant, with scoring, pruning and semantic recall.">
+</picture>
 
-<img src="https://komarev.com/ghpvc/?username=ms7199&label=Profile%20views&color=0e75b6&style=flat-square" />
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" width="100%"/>
+<a name="stack"></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/section-stack.svg">
+  <img src="assets/light/section-stack.svg" width="100%" alt="03 Stack">
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg">
+  <img src="assets/light/stack.svg" width="100%" alt="LLMs and agents: OpenAI, Groq, LangChain, LangGraph, MCP, Guardrails, Hugging Face. Retrieval and ML: Pinecone, FAISS, hybrid search, Sentence-Transformers, PyTorch, scikit-learn, MLflow. Backend: Python, FastAPI, Django REST, Node.js, Celery, Redis, PostgreSQL, MongoDB. Cloud: AWS, Azure, Docker, CI/CD, DynamoDB.">
+</picture>
+
+I've also integrated SharePoint, Confluence, Outlook, Slack, Stripe, Razorpay, Twilio and SendGrid, and I work in React and Next.js when a project needs a frontend.
+
+<br/><br/>
+
+<a name="contact"></a>
+<a href="mailto:guptamayank7199@gmail.com"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/contact.svg">
+  <img src="assets/light/contact.svg" width="100%" alt="Building something with LLMs? Let's talk. guptamayank7199@gmail.com">
+</picture></a>
+
+<p><a href="https://www.linkedin.com/in/guptamayank7199/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:guptamayank7199@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://stackoverflow.com/users/9546688/mayank-gupta">Stack Overflow</a> &nbsp;·&nbsp; <a href="https://x.com/msgupta_07">X</a> &nbsp;·&nbsp; <a href="https://github.com/ms7199">GitHub</a> &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp; <a href="#top">Back to top ↑</a></p>
